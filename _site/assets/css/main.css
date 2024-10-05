@@ -583,6 +583,7 @@ pre > code {
   vertical-align: center;
   border-radius: 2px;
   margin: 0 auto;
+  background-color: #0055ff;
   background-size: 100%;
   color: #fafafa;
   width: 54px;
@@ -601,6 +602,8 @@ pre > code {
   line-height: 20px;
   margin-top: 0;
   margin-bottom: 0.25em;
+  margin-left: 0.25em;
+  padding-bottom: 1.25em;
   text-align: center;
 }
 .post-title-episode .post-header-title {
@@ -610,7 +613,7 @@ pre > code {
   margin-top: 0;
   margin-bottom: 0;
   text-align: center;
-  padding-top: 0.5em;
+  padding-top: 0.25em;
   border-top: 2px solid #2A4FA0;
   text-align: left;
 }
